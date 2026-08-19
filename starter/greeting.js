@@ -5,3 +5,7 @@
 console.log("Hello, Git!");
 console.log("Sela");
 console.log("676767");
+function saygoodbye() {
+    console.log("sela676767");
+} 
+saygoodbye();
